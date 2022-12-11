@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Entity_Folder.Hero_Folder.NormalTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.003">
+  <properties/>
+  <testcase name="Text_HeroX_Update" classname="stickman.model.Entity_Folder.Hero_Folder.NormalTest" time="0.002"/>
+  <testcase name="test_if_Normal" classname="stickman.model.Entity_Folder.Hero_Folder.NormalTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

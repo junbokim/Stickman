@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Level_Folder.Normal_Level_Instantiation_test" tests="18" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.022">
+  <properties/>
+  <testcase name="getPlatforms" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getFloorHeight" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.0"/>
+  <testcase name="deleteEnemy" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.004"/>
+  <testcase name="getLevelFinished" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getCloudVelocity" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getEnemies" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.0"/>
+  <testcase name="getProtagonist" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getTickable" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getEntities" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.0"/>
+  <testcase name="tick" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="reset" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.0"/>
+  <testcase name="getClouds" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getHearts" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getLevel_type_Normal" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="setHeroX" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.0"/>
+  <testcase name="setLevelFinished" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.0"/>
+  <testcase name="getHeroX" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.001"/>
+  <testcase name="getTimer" classname="stickman.model.Level_Folder.Normal_Level_Instantiation_test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

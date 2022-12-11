@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.GameEngineImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.011">
+  <properties/>
+  <testcase name="stopMoving" classname="stickman.model.GameEngineImplTest" time="0.003"/>
+  <testcase name="getCurrentLevel" classname="stickman.model.GameEngineImplTest" time="0.002"/>
+  <testcase name="moveLeft" classname="stickman.model.GameEngineImplTest" time="0.001"/>
+  <testcase name="jump" classname="stickman.model.GameEngineImplTest" time="0.001"/>
+  <testcase name="tick" classname="stickman.model.GameEngineImplTest" time="0.001"/>
+  <testcase name="moveRight" classname="stickman.model.GameEngineImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Entity_Folder.Platform_Folder.GrassyPlatformTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.001">
+  <properties/>
+  <testcase name="getImagePath" classname="stickman.model.Entity_Folder.Platform_Folder.GrassyPlatformTest" time="0.0"/>
+  <testcase name="PlatformMaker" classname="stickman.model.Entity_Folder.Platform_Folder.GrassyPlatformTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

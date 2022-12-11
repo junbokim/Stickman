@@ -1,0 +1,13 @@
+{
+  "stickmanSize": "Not_Normal",
+  "_stickmanSizeComment": "Setting for the Character's size. This value can be Tiny, Normal, Large, or Giant.",
+  "stickmanPos": {
+    "x": 250.0
+  },
+  "_stickmanPosComment": "Starting Position of the Stickman. The value should be between 50~200.",
+  "cloudVelocity": 50.0,
+  "_cloudVelocityComment": "Cloud Velocity settings, Please choose a value betweel 1.0~5.0",
+
+  "Level": "Not_Normal",
+  "_LevelComment": "The Three behaviours of the Levels:Normal (No effect), Ice (The Character Slides with Landings), Windy (The Character gets pushed back due to Wind)"
+}

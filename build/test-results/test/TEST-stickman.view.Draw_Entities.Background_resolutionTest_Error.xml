@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.view.Draw_Entities.Background_resolutionTest_Error" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.009">
+  <properties/>
+  <testcase name="getFloorHeight" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.001"/>
+  <testcase name="getTextXLocation" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.001"/>
+  <testcase name="getButton_Height_and_Width" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.0"/>
+  <testcase name="setText_And_getText" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.0"/>
+  <testcase name="getHeight" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.0"/>
+  <testcase name="getModel" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.0"/>
+  <testcase name="getWidth" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.0"/>
+  <testcase name="isError" classname="stickman.view.Draw_Entities.Background_resolutionTest_Error" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

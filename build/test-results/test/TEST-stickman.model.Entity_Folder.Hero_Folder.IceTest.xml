@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Entity_Folder.Hero_Folder.IceTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.026">
+  <properties/>
+  <testcase name="Left_Drift_normal" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.005"/>
+  <testcase name="test_if_Ice" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.001"/>
+  <testcase name="Jumping_While_Drifting_Left" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.002"/>
+  <testcase name="getBehaviour" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.001"/>
+  <testcase name="Started" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.001"/>
+  <testcase name="sliding_Right_Then_Turning_Left" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.003"/>
+  <testcase name="sliding_Left_Then_Turning_Right" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.002"/>
+  <testcase name="Right_Drift_normal" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.002"/>
+  <testcase name="Right_Drift_Terrain_Interaction" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.002"/>
+  <testcase name="Left_Drift_Terrain_Interaction" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.002"/>
+  <testcase name="Jumping_While_Drifting_Right" classname="stickman.model.Entity_Folder.Hero_Folder.IceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

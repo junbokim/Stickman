@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.view.Draw_Entities.DrawGrassTest_Ice" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.035">
+  <properties/>
+  <testcase name="draw" classname="stickman.view.Draw_Entities.DrawGrassTest_Ice" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

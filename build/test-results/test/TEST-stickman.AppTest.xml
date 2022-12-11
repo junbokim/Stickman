@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.AppTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.004">
+  <properties/>
+  <testcase name="getBackground_resolutions" classname="stickman.AppTest" time="0.0"/>
+  <testcase name="finished" classname="stickman.AppTest" time="0.0"/>
+  <testcase name="stringGenerator" classname="stickman.AppTest" time="0.0"/>
+  <testcase name="end" classname="stickman.AppTest" time="0.0"/>
+  <testcase name="main" classname="stickman.AppTest" time="0.0"/>
+  <testcase name="start" classname="stickman.AppTest" time="0.0"/>
+  <testcase name="restart" classname="stickman.AppTest" time="0.001"/>
+  <testcase name="titleGenerator" classname="stickman.AppTest" time="0.0"/>
+  <testcase name="window_run" classname="stickman.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Stat_readerTest_Normal" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.008">
+  <properties/>
+  <testcase name="getstart_position_x" classname="stickman.model.Stat_readerTest_Normal" time="0.001"/>
+  <testcase name="getLevel_type" classname="stickman.model.Stat_readerTest_Normal" time="0.002"/>
+  <testcase name="getVelocity" classname="stickman.model.Stat_readerTest_Normal" time="0.001"/>
+  <testcase name="getSize" classname="stickman.model.Stat_readerTest_Normal" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

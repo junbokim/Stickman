@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Entity_Folder.Hero_Folder.HeroTest" tests="53" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.048">
+  <properties/>
+  <testcase name="platforminteract_RightSide" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="resting_Left_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="platforminteract_LeftSide" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="facing_left_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="tick_GoingRight_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.002"/>
+  <testcase name="GoingRight_Still_Left_Still" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.002"/>
+  <testcase name="stopMoving_Right_Still" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="stopMoving_Left_Still" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="Jump_Left_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="Jumping_Onto_Platform" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.002"/>
+  <testcase name="enemyInteract_Sides" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="Walking_Left_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="Jumping_Alternating_Directions_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.002"/>
+  <testcase name="moveLeft" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getJump" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="getSize" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getXPos" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getYPos" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getstay" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="getFalling" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="tick_Going_Left_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="reset" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="moving_Right_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getLevelBehaviour" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="jump_Normal" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="resting_Right_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.002"/>
+  <testcase name="getHeight" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="isGoingRight" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="Jump_Right_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="facing_Right_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="platforminteract_StayTop" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="default_getImagePath" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getFacingDirection" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="moveRight" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="setMovementDirection_RIGHT" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="setMovementDirection_LEFTSTILL" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="setMovementDirection_LEFT_Jump" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="tick_Going_Left_Then_Jumping_Then_Going_Left_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.002"/>
+  <testcase name="jump_On_Terrain" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="setImage" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="setMovementDirection_RIGHTSTILL" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="setMovementDirection_RIGHT_Jump" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="setMovementDirection_LEFT" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="setJump_Stopping_Double_Jump" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="tick_Going_Right_Then_Jumping_Then_Going_Right_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.003"/>
+  <testcase name="Jumping_GoingRight_Still_GoingRight_Image_Update" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="platforminteract_Top" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="isGoingLeft" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="enemyInteract_Top" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getLayer" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.001"/>
+  <testcase name="getLevel" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="getWidth" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <testcase name="setXPos" classname="stickman.model.Entity_Folder.Hero_Folder.HeroTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

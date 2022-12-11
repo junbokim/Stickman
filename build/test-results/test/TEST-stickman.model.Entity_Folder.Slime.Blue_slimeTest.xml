@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Entity_Folder.Slime.Blue_slimeTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.013">
+  <properties/>
+  <testcase name="getImagePath" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="platforminteract" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="moveLeft" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="getLeft" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.001"/>
+  <testcase name="getXPos" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="getYPos" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="getstay" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="getFalling" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.001"/>
+  <testcase name="getBehaviours" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="tick" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="Jumping" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.001"/>
+  <testcase name="getHeight" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="moveRight" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="Tick_changing_image_and_Jumping" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.001"/>
+  <testcase name="Platform_interaction" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="setFalling" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.001"/>
+  <testcase name="getLayer" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="getSpeed" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="getWidth" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.001"/>
+  <testcase name="setXPos" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="setYPos" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <testcase name="switchImage" classname="stickman.model.Entity_Folder.Slime.Blue_slimeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

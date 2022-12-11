@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stickman.model.Level_Folder.Edge_Case_Ice_Level_Instantiation_Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-10-06T12:31:01" hostname="PUGGGLLLEEE" time="0.001">
+  <properties/>
+  <testcase name="Hero_XPos_Testing_Input_Below_0" classname="stickman.model.Level_Folder.Edge_Case_Ice_Level_Instantiation_Test" time="0.0"/>
+  <testcase name="Cloud_Velocity_Equal_0" classname="stickman.model.Level_Folder.Edge_Case_Ice_Level_Instantiation_Test" time="0.0"/>
+  <testcase name="Hero_XPos_Testing_Input_Above_200" classname="stickman.model.Level_Folder.Edge_Case_Ice_Level_Instantiation_Test" time="0.001"/>
+  <testcase name="Cloud_Velocity_Below_0" classname="stickman.model.Level_Folder.Edge_Case_Ice_Level_Instantiation_Test" time="0.0"/>
+  <testcase name="Level_Type_Windy" classname="stickman.model.Level_Folder.Edge_Case_Ice_Level_Instantiation_Test" time="0.0"/>
+  <testcase name="Level_Type_Ice" classname="stickman.model.Level_Folder.Edge_Case_Ice_Level_Instantiation_Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
